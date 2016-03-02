@@ -33,4 +33,4 @@ Ante la posibilidad de encontrar diversos modulos, se crea la variable de compli
 
 La documentacion de esta version se encuentra en  
 
-http://serverpic.com/MIPIC/Rutinas/GSM/V2/htmñ/
+http://serverpic.com/MIPIC/Rutinas/GSM/V2/html/
