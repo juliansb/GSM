@@ -3,7 +3,7 @@
 * @file Documentacion.h
 * @brief Conjunto de funciones para manejo de dispositivos GSM
 * @author Julian Salas Bartolome
-* @version 1.0
+* @version 2.0
 * @date Septiembre 2015
 *
 *
