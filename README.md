@@ -9,6 +9,10 @@ Versión inicial generada para gestionar el modulo WMOD2 de Wavecom
 
 Se ha tratado de que sean funciones genericas independientemente del modulo utilizado, sin embargo, al utilizar otros modulos se han detectado algunas disfunciones corregidas en posteriores versiones.
 
+La documentacion de esta version se encuentra en  
+
+http://serverpic.com/MIPIC/Rutinas/GSM/V1/
+
 v 2.0 Diciembre 2016
 
  
@@ -27,6 +31,6 @@ Ante la posibilidad de encontrar diversos modulos, se crea la variable de compli
      y si se registra correctamente temporiza 30 sg para asegurar la estabilizacion del modulo 
 
 
-Toda la documentación de las funciones esta disponible en el siguiente enlace
- 
-http://serverpic.com/MIPIC/Rutinas/JSBString/
+La documentacion de esta version se encuentra en  
+
+http://serverpic.com/MIPIC/Rutinas/GSM/V2/
