@@ -11,7 +11,7 @@ Se ha tratado de que sean funciones genericas independientemente del modulo util
 
 La documentacion de esta version se encuentra en  
 
-http://serverpic.com/MIPIC/Rutinas/GSM/V1/
+http://serverpic.com/MIPIC/Rutinas/GSM/V1/html/
 
 v 2.0 Diciembre 2016
 
@@ -33,4 +33,4 @@ Ante la posibilidad de encontrar diversos modulos, se crea la variable de compli
 
 La documentacion de esta version se encuentra en  
 
-http://serverpic.com/MIPIC/Rutinas/GSM/V2/
+http://serverpic.com/MIPIC/Rutinas/GSM/V2/htmñ/

@@ -52,7 +52,7 @@
 		* @brief Enlaces a informacion sobre los comandos AT utilizados en la mayoria de modulos
 
   		\section sec1 Informacion tecnica 
-	   		<a href="file:..\Documentacion\gsm822w.pdf">Comandos AT</a> 
+	   		<a href="..\Documentacion\gsm822w.pdf">Comandos AT</a> 
 */
 
 
