@@ -13,7 +13,7 @@ La documentacion de esta version se encuentra en
 
 http://serverpic.com/MIPIC/Rutinas/GSM/V1/html/
 
-v 2.0 Diciembre 2016
+v 2.0 Diciembre 2015
 
  
 Se realizan modificaciones necesarias para utilizacion del modulo M590 de NEOWAY
@@ -23,7 +23,7 @@ Ante la posibilidad de encontrar diversos modulos, se crea la variable de compli
 
    - Se añade la funcion JSB_ResetGSM para resetear el modulo en caso de que se necesite reiniciarlo desde 0
 
-   - Se incorpora una nueva version de JSN_EnviaSMS que adecua el envio de SMS multilinea al modulo NEOWAY M590
+   - Se incorpora una nueva version de JSB_EnviaSMS que adecua el envio de SMS multilinea al modulo NEOWAY M590
      Se observo que la respuesta del modulo a un retorno de carro era lenta y se perdian caracteres de la siguiente linea por lo que
      ha sido necesario separar las lineas y temporizar entre el envio de cada linea para no perder caracteres 
 
